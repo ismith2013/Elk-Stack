@@ -91,6 +91,7 @@ In order to use the playbook, you will need to have an Ansible control node alre
 SSH into the control node and follow the steps below:
 - Copy the Ansible Configuration & Install-Elk files to /etc/anible.
 - Update the hosts file to include 
+
   10.0.0.12 ansible_python_interpreter=/usr/bin/python3
   10.0.0.13 ansible_python_interpreter=/usr/bin/python3
   10.0.0.14 ansible_python_interpreter=/usr/bin/python3 
