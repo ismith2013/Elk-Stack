@@ -103,6 +103,8 @@ SSH into the control node and follow the steps below:
 
 
   [elk]
+  
+  
   10.2.0.4 ansible_python_interpreter=/usr/bin/python3
 
 - Run the playbook using ansible-playbook install-elk.yml
