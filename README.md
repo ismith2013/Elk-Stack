@@ -93,8 +93,11 @@ SSH into the control node and follow the steps below:
 - Update the hosts file to include 
 
   10.0.0.12 ansible_python_interpreter=/usr/bin/python3
-  10.0.0.13 ansible_python_interpreter=/usr/bin/python3
-  10.0.0.14 ansible_python_interpreter=/usr/bin/python3 
+  11.
+  12.0.0.13 ansible_python_interpreter=/usr/bin/python3
+  13.
+  14.0.0.14 ansible_python_interpreter=/usr/bin/python3 
+  15.
 
   [elk]
   10.2.0.4 ansible_python_interpreter=/usr/bin/python3
