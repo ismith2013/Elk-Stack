@@ -32,7 +32,7 @@ The configuration details of each machine may be found below.
 
 | Name     | Function | IP Address | Operating System |
 |----------|----------|------------|------------------|
-| Jump Box | Gateway  | 10.0.0.1   | Linux/Ubtuntu    |
+| JumpBox  | Gateway  | 10.0.0.1   | Linux/Ubtuntu    |
 | Web-1    |Web Server| 10.0.0.12  | Linux/Ubuntu     |
 | Web-2    |Web Server| 10.0.0.14  | Linux/Ubuntu     |
 | Web-3    |Web Server| 10.0.0.4   | Linux/Ubuntu     |
@@ -52,7 +52,7 @@ A summary of the access policies in place can be found in the table below.
 
 | Name     | Publicly Accessible | Allowed IP Addresses |
 |----------|---------------------|----------------------|
-| Jump Box | No                  |     40.114.37.65     |
+| JumpBox  | No                  |     40.114.37.65     |
 | Web-1    | No                  |      10.0.0.13       |
 | Web-2    | No                  |      10.0.0.14       |
 | Web-3    | No                  |      10.0.0.4        |
