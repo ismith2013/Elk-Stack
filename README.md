@@ -32,8 +32,8 @@ The configuration details of each machine may be found below.
 
 | Name     | Function | IP Address | Operating System |
 |----------|----------|------------|------------------|
-| JumpBox  | Gateway  | 10.0.0.1   | Linux/Ubtuntu    |
-| Web-1    |Web Server| 10.0.0.12  | Linux/Ubuntu     |
+| JumpBox  | Gateway  | 10.0.0.12  | Linux/Ubtuntu    |
+| Web-1    |Web Server| 10.0.0.13  | Linux/Ubuntu     |
 | Web-2    |Web Server| 10.0.0.14  | Linux/Ubuntu     |
 | Web-3    |Web Server| 10.0.0.4   | Linux/Ubuntu     |
 | UbuntuVM |Elk Server| 10.2.0.4   | Linux/Ubuntu     |
